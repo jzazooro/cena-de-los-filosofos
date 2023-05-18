@@ -1,4 +1,6 @@
 from clases. filosofos import *
+import tkinter
+import sys
 
 def main():
     tenedores = []
